@@ -1,0 +1,113 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 20px;
+  padding: 0;
+  background-color: #f4f4f4;
+  background-image: url('https://e0.pxfuel.com/wallpapers/624/80/desktop-wallpaper-background-patterns-bright-texture-textures-surface-thumbnail.jpg');
+display:flex;
+flex-wrap: wrap;
+justify-content: center; 
+}
+
+h1 {
+    width: 100%;
+  text-align: center;
+  color: #333;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background-color: #fff;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #3498db;
+
+  
+}
+#branch1{
+  background-image: url('https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/a9/62/d0/rajasthan-palace-hotel.jpg?w=700&h=-1&s=1');
+  aspect-ratio: 16 / 9 ;
+  background-size: cover;
+
+}
+#branch2{
+  background-image: url('https://thehoughtonhotel.com/wp-content/uploads/2023/02/Houghton-Hotel-3-20-scaled.jpg');
+  aspect-ratio: 16 / 9 ;
+  background-size: cover;
+
+}
+#branch3{
+  background-image: url('https://t3.ftcdn.net/jpg/00/29/13/38/360_F_29133877_bfA2n7cWV53fto2BomyZ6pyRujJTBwjd.jpg');
+  aspect-ratio: 16 / 9 ;
+  background-size: cover;
+
+}
+
+p {
+  color:whitesmoke;
+}
+
+a {
+  display: block;
+  color: #fff;
+  background-color: #3498db;
+  padding: 8px 10px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 3px;
+  margin-top: 10px;
+}
+
+a:hover {
+  background-color: darkorange;
+}
+
+  .container {
+    width: 300px; 
+    border: 3px solid darkorange; 
+    padding: 10px; 
+    text-align: center; 
+  justify-content:center;
+    align-items:center;
+}
+.container2 {
+  width: 300px; 
+  border: 3px solid darkorange; 
+  padding: 10px; 
+  text-align: center; 
+  
+  align-items:center;
+}
+.container3 {
+width: 300px; 
+border: 3px solid darkorange; 
+padding: 10px; 
+text-align: center; 
+
+align-items:center;
+}
+
+img {
+    max-width: 300%; 
+    height: 200%; 
+    display: block; 
+    margin-bottom: 10px;
+    align-content: space-evenly;
+}
+
+
+
+h2 {
+    margin-bottom: 5px; 
+}
+
+
